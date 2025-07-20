@@ -1,7 +1,10 @@
 class Solution {
     /*
         Technique: Two Pointers
-        create two pointers pointing to end of both the arrays. Now compare both the element and add the largest to end of nums1 array. Repeat the process until one of the pointer goes out of bounds. Next include any unprocessed elements from any of the arrays.
+        create two pointers pointing to end of both the arrays. Now compare both 
+        the element and add the largest to end of nums1 array. Repeat the process 
+        until one of the pointer goes out of bounds. Next include any unprocessed 
+        elements from any of the arrays.
     
         TC: O(N + M) SC: O(1)
     */
@@ -15,6 +18,7 @@ class Solution {
             else
                 nums1[ptr--] = nums2[p2--];
         }
+
 
         // Add unprocessed elements from any of the arrays
         if (p1 >= 0) {

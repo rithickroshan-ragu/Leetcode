@@ -7,4 +7,16 @@ Leetcode Problems &amp; Solutions
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/rithickroshan-ragu/Leetcode/tree/master/2383-add-two-integers) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

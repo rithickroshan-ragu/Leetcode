@@ -19,4 +19,8 @@ Leetcode Problems &amp; Solutions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->

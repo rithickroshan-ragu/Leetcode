@@ -1,6 +1,6 @@
 class Solution {
     /*
-        Technique: Two Pointers, Sets
+        Technique: Two Pointers, Sliding Window, HashSet
     
         initialize two pointers at the start s and e. Now expand the window by moving e and keep
         track of elements in current window by using a set. When you encounter a duplicate element

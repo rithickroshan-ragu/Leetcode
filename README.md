@@ -12,6 +12,7 @@ Leetcode Problems &amp; Solutions
 | ------- |
 | [0027-remove-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1813-maximum-erasure-value](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,12 @@ Leetcode Problems &amp; Solutions
 |  |
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+## Hash Table
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1813-maximum-erasure-value) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->

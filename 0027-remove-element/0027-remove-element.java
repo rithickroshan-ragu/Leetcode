@@ -1,6 +1,7 @@
 class Solution {
     /*
-        Technique: Two Pointers
+        Technique: Two Pointers -  In Place (keep one pointer to track where next valid element 
+        must be stored and other for traversal)
     
         Initialize two pointer at start one called index => referring to where non-target element
         must be placed and another pointer for looping through the array. While traversing place 

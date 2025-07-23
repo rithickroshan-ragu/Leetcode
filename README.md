@@ -6,6 +6,7 @@ Leetcode Problems &amp; Solutions
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
 | [2383-add-two-integers](https://github.com/rithickroshan-ragu/Leetcode/tree/master/2383-add-two-integers) |
 ## Array
 |  |
@@ -15,6 +16,7 @@ Leetcode Problems &amp; Solutions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
 | [1813-maximum-erasure-value](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## Two Pointers
 |  |
@@ -23,6 +25,7 @@ Leetcode Problems &amp; Solutions
 | [0027-remove-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |

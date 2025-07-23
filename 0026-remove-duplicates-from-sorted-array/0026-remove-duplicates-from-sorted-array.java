@@ -1,7 +1,7 @@
 class Solution {
     /*
         Technique: Two Pointers - In Place
-        
+
         initialize two pointers one to traverse the array and one to keep track of index
         where next unique element gets to added. while traversing array keep track of previous
         element. For every elemtn if it is not == prev element store it in index position and move
@@ -13,12 +13,11 @@ class Solution {
 
     public int removeDuplicates(int[] nums) {
         int N = nums.length;
-        int index = 0;
+        int index = 1; // Index to place next unique element
 
-        for (int i = 0; i < N; i++)
+        for (int i = 1; i < N; i++)
         {
-            int prev = (index - 1) < 0? Integer.MIN_VALUE: nums[index - 1];
-            if (nums[i] != prev)
+            if (nums[i] != nums[index - 1])
             {
                 nums[index] = nums[i];
                 index++;

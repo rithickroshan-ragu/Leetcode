@@ -1,7 +1,12 @@
 class Solution {
     /*
+        Technique: Two Pointers
 
+        1. Reverse the entire array.
+        2. Reverese the first k elements.
+        3. Reverse the remaining elements.
 
+        TC: O(N) SC: O(1)
     */
 
     public void rotate(int[] nums, int k) {

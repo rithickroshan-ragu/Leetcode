@@ -1,9 +1,34 @@
 class Solution {
+    /*
+        Approach 1:
+
+        Technique: Dynamic Programming
+        Start from the first index and check all possible jumps. Do it for all elements in the
+        array. Use memoization to optimize to store intermediate results.
+
+        TC: O(N) SC: O(N) 
+
+        Approach 2:
+        Technique: Greedy Algorithm
+
+
+    */
+
     public boolean canJump(int[] nums) {
         int N = nums.length;
-        int[] dp = new int[N];
+        int farthest = 0;
+        for (int i = 0; i < N; i++)
+        {
+            farthest = Math.max(farthest, i + nums[i]);
+            if (nums[i] == 0 && i >= farthest)
+                break;
+        }
 
-        return jump(nums, 0, dp);
+        return farthest >= nums.length - 1? true: false;
+
+        // int[] dp = new int[N];
+
+        // return jump(nums, 0, dp);
     }
 
     boolean jump(int[] nums, int index, int[] dp) {

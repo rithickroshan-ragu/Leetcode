@@ -11,7 +11,11 @@ class Solution {
         Approach 2:
         Technique: Greedy Algorithm
 
+        Traverese the array while keeping track of the farthest index you could have jumped 
+        so far. for any 0 encountered before the farthest pos we can ignore them. for any 0
+        encountered after the farthest pos means we cannot jump to end of array.
 
+        TC: O(N) SC: O(1)
     */
 
     public boolean canJump(int[] nums) {

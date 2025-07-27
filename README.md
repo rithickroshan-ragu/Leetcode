@@ -7,6 +7,7 @@ Leetcode Problems &amp; Solutions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
+| [1610-xor-operation-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2383-add-two-integers](https://github.com/rithickroshan-ragu/Leetcode/tree/master/2383-add-two-integers) |
 ## Array
 |  |
@@ -69,4 +70,8 @@ Leetcode Problems &amp; Solutions
 | [0055-jump-game](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->

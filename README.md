@@ -39,6 +39,7 @@ Leetcode Problems &amp; Solutions
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0742-to-lower-case) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Hash Table
 |  |

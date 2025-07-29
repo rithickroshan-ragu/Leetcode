@@ -5,7 +5,7 @@ class Solution {
         Start with first of array and try all possible jumps. Do the same for all elemnents of
         the array. Store min #jumps while trying all possible paths. Use memoization to optimize.
 
-        TC: O(N) SC: O(N)
+        TC: O(N^2) SC: O(N)
     */
 
 

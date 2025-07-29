@@ -6,7 +6,7 @@ class Solution {
         Start from the first index and check all possible jumps. Do it for all elements in the
         array. Use memoization to optimize to store intermediate results.
 
-        TC: O(N) SC: O(N) 
+        TC: O(N^2) SC: O(N) 
 
         Approach 2:
         Technique: Greedy Algorithm

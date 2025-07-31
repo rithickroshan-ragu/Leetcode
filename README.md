@@ -22,6 +22,7 @@ Leetcode Problems &amp; Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0274-h-index) |
 | [1813-maximum-erasure-value](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
@@ -37,6 +38,7 @@ Leetcode Problems &amp; Solutions
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0274-h-index) |
 ## String
 |  |
 | ------- |
@@ -87,4 +89,8 @@ Leetcode Problems &amp; Solutions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

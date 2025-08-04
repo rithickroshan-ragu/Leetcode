@@ -7,7 +7,7 @@ class Solution {
         you encounter a third type keep moving s ptr until you have only one type of fruit in the 
         basket. At every step keep track of maximum fruits in the basket.
     
-        TC: O(N) SC: O(1)
+        TC: O(N) SC: O(N)
     */
     public int totalFruit(int[] fruits) {
         int N = fruits.length;

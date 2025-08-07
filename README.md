@@ -50,6 +50,7 @@ Leetcode Problems &amp; Solutions
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0742-to-lower-case) |

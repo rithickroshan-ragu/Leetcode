@@ -7,6 +7,7 @@ Leetcode Problems &amp; Solutions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -98,6 +99,7 @@ Leetcode Problems &amp; Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Queue
 |  |
@@ -119,4 +121,8 @@ Leetcode Problems &amp; Solutions
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

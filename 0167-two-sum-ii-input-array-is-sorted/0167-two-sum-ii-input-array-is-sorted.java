@@ -14,19 +14,16 @@ class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int N = numbers.length;
         int l = 0, r = N - 1;
-        int a = -1, b = -1;
         while (l < r) {
             int sum = numbers[l] + numbers[r];
-            if (sum == target) {
-                a = l + 1;
-                b = r + 1;
+            if (sum == target)
                 break;
-            } else if (sum < target)
+            else if (sum < target)
                 l++;
             else
                 r--;
         }
 
-        return new int[] { a, b };
+        return new int[] {l + 1, r + 1};
     }
 }

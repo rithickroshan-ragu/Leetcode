@@ -46,6 +46,7 @@ Leetcode Problems &amp; Solutions
 | [0125-valid-palindrome](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Leetcode Problems &amp; Solutions
 | [0058-length-of-last-word](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0742-to-lower-case) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -92,6 +94,7 @@ Leetcode Problems &amp; Solutions
 | [0055-jump-game](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |

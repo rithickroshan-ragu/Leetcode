@@ -7,6 +7,8 @@ class Solution {
         3. if all chars with req count is present return true else return false.
     
         TC: O(N)    SC: O(N)
+
+        Approach 2: Using frequency array
     */
     public boolean canConstruct(String ransomNote, String magazine) {
         HashMap<Character, Integer> chars = new HashMap<>();

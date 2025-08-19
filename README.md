@@ -58,6 +58,7 @@ Leetcode Problems &amp; Solutions
 | ------- |
 | [0058-length-of-last-word](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0742-to-lower-case) |
@@ -68,6 +69,7 @@ Leetcode Problems &amp; Solutions
 | ------- |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -86,6 +88,7 @@ Leetcode Problems &amp; Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |

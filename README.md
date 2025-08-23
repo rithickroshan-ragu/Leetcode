@@ -8,6 +8,7 @@ Leetcode Problems &amp; Solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -139,6 +140,7 @@ Leetcode Problems &amp; Solutions
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |

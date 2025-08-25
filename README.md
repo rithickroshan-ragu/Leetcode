@@ -8,6 +8,7 @@ Leetcode Problems &amp; Solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -153,4 +154,12 @@ Leetcode Problems &amp; Solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

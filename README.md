@@ -39,6 +39,7 @@ Leetcode Problems &amp; Solutions
 | [1813-maximum-erasure-value](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/rithickroshan-ragu/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |

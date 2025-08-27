@@ -19,6 +19,7 @@ Leetcode Problems &amp; Solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0045-jump-game-ii) |
@@ -75,6 +76,7 @@ Leetcode Problems &amp; Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |

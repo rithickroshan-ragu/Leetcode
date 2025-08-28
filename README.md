@@ -34,6 +34,7 @@ Leetcode Problems &amp; Solutions
 | [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0940-fruit-into-baskets](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -53,6 +54,7 @@ Leetcode Problems &amp; Solutions
 | [0125-valid-palindrome](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -60,6 +62,7 @@ Leetcode Problems &amp; Solutions
 | [0088-merge-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -79,6 +82,7 @@ Leetcode Problems &amp; Solutions
 | [0001-two-sum](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -153,6 +157,7 @@ Leetcode Problems &amp; Solutions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |

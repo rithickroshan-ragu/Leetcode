@@ -33,6 +33,7 @@ Leetcode Problems &amp; Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -62,6 +63,7 @@ Leetcode Problems &amp; Solutions
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -83,6 +85,7 @@ Leetcode Problems &amp; Solutions
 | [0001-two-sum](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0383-ransom-note) |

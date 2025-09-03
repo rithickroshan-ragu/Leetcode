@@ -22,6 +22,7 @@ Leetcode Problems &amp; Solutions
 | [0001-two-sum](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0055-jump-game) |
@@ -162,6 +163,7 @@ Leetcode Problems &amp; Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching

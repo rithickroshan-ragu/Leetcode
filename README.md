@@ -39,6 +39,7 @@ Leetcode Problems &amp; Solutions
 | [0217-contains-duplicate](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0940-fruit-into-baskets](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -60,6 +61,7 @@ Leetcode Problems &amp; Solutions
 | [0125-valid-palindrome](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -136,6 +138,7 @@ Leetcode Problems &amp; Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Queue
@@ -168,6 +171,7 @@ Leetcode Problems &amp; Solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |

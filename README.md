@@ -13,6 +13,7 @@ Leetcode Problems &amp; Solutions
 | [0342-power-of-four](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/rithickroshan-ragu/Leetcode/tree/master/2383-add-two-integers) |
@@ -45,6 +46,7 @@ Leetcode Problems &amp; Solutions
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0940-fruit-into-baskets](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |

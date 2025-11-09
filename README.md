@@ -17,6 +17,7 @@ Leetcode Problems &amp; Solutions
 | [1610-xor-operation-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/rithickroshan-ragu/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/rithickroshan-ragu/Leetcode/tree/master/2383-add-two-integers) |
 | [3830-find-closest-person](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3830-find-closest-person) |
 ## Array
@@ -194,6 +195,7 @@ Leetcode Problems &amp; Solutions
 | ------- |
 | [0258-add-digits](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1642-water-bottles) |
+| [2288-count-operations-to-obtain-zero](https://github.com/rithickroshan-ragu/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Number Theory
 |  |
 | ------- |

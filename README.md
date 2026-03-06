@@ -94,6 +94,7 @@ Leetcode Problems &amp; Solutions
 | [0392-is-subsequence](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0742-to-lower-case) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |

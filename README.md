@@ -47,6 +47,7 @@ Leetcode Problems &amp; Solutions
 | [0287-find-the-duplicate-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0724-find-pivot-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0724-find-pivot-index) |
 | [0940-fruit-into-baskets](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -170,6 +171,7 @@ Leetcode Problems &amp; Solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
 | ------- |

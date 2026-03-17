@@ -32,6 +32,7 @@ Leetcode Problems &amp; Solutions
 | [0045-jump-game-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,6 +77,7 @@ Leetcode Problems &amp; Solutions
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |

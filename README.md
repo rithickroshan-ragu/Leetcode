@@ -38,6 +38,7 @@ Leetcode Problems &amp; Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
@@ -158,6 +159,7 @@ Leetcode Problems &amp; Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1610-xor-operation-in-an-array) |

@@ -58,6 +58,7 @@ Leetcode Problems &amp; Solutions
 | [2876-number-of-employees-who-met-the-target](https://github.com/rithickroshan-ragu/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@ Leetcode Problems &amp; Solutions
 | [1813-maximum-erasure-value](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |

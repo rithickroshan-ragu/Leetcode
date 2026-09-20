@@ -101,6 +101,7 @@ Leetcode Problems &amp; Solutions
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3498-reverse-degree-of-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Leetcode Problems &amp; Solutions
 | [0258-add-digits](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1642-water-bottles) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rithickroshan-ragu/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3498-reverse-degree-of-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |

@@ -14,6 +14,7 @@ Leetcode Problems &amp; Solutions
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1492-the-kth-factor-of-n](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -214,6 +215,7 @@ Leetcode Problems &amp; Solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -230,4 +232,8 @@ Leetcode Problems &amp; Solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0042-trapping-rain-water) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->

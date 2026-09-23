@@ -12,6 +12,7 @@ Leetcode Problems &amp; Solutions
 | [0326-power-of-three](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0507-perfect-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1492-the-kth-factor-of-n) |

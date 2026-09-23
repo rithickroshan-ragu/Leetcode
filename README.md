@@ -16,6 +16,7 @@ Leetcode Problems &amp; Solutions
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1512-number-of-good-pairs](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1642-water-bottles) |
@@ -55,6 +56,7 @@ Leetcode Problems &amp; Solutions
 | [0724-find-pivot-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0724-find-pivot-index) |
 | [0940-fruit-into-baskets](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -121,6 +123,7 @@ Leetcode Problems &amp; Solutions
 | [0383-ransom-note](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1512-number-of-good-pairs](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -145,6 +148,7 @@ Leetcode Problems &amp; Solutions
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |

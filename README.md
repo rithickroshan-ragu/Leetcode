@@ -9,6 +9,7 @@ Leetcode Problems &amp; Solutions
 | [0013-roman-to-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -49,6 +50,7 @@ Leetcode Problems &amp; Solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -91,6 +93,7 @@ Leetcode Problems &amp; Solutions
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -118,6 +121,7 @@ Leetcode Problems &amp; Solutions
 | [0013-roman-to-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0383-ransom-note) |
@@ -173,6 +177,7 @@ Leetcode Problems &amp; Solutions
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -208,6 +213,7 @@ Leetcode Problems &amp; Solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching

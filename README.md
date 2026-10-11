@@ -4,8 +4,8 @@ Leetcode Problems &amp; Solutions
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0258-add-digits) |
@@ -26,8 +26,8 @@ Leetcode Problems &amp; Solutions
 | [2383-add-two-integers](https://github.com/rithickroshan-ragu/Leetcode/tree/master/2383-add-two-integers) |
 | [3830-find-closest-person](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3830-find-closest-person) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0027-remove-element) |
@@ -64,14 +64,15 @@ Leetcode Problems &amp; Solutions
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rithickroshan-ragu/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2876-number-of-employees-who-met-the-target](https://github.com/rithickroshan-ragu/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -87,8 +88,8 @@ Leetcode Problems &amp; Solutions
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
@@ -98,8 +99,8 @@ Leetcode Problems &amp; Solutions
 | [0274-h-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0020-valid-parentheses) |
@@ -117,8 +118,8 @@ Leetcode Problems &amp; Solutions
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0013-roman-to-integer) |
@@ -138,29 +139,29 @@ Leetcode Problems &amp; Solutions
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0045-jump-game-ii) |
@@ -171,104 +172,108 @@ Leetcode Problems &amp; Solutions
 | [0392-is-subsequence](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0045-jump-game-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0135-candy) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0137-single-number-ii](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0274-h-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0274-h-index) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0326-power-of-three](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1642-water-bottles) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rithickroshan-ragu/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3498-reverse-degree-of-a-string](https://github.com/rithickroshan-ragu/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Prime Factorization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/rithickroshan-ragu/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0022-generate-parentheses) |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0022-generate-parentheses) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rithickroshan-ragu/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rithickroshan-ragu/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
